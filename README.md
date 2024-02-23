@@ -37,3 +37,5 @@ The implementation of a Light/Dark Theme Toggle typically involves HTML, CSS, an
 ### Conclusion:
 
 In conclusion, the Light/Dark Theme Toggle is a versatile feature that enhances user experience by offering flexibility, accessibility, and aesthetic appeal. By implementing this feature thoughtfully, designers and developers can cater to a diverse range of user preferences and improve the overall usability of their digital products.
+
+<img width="303" alt="image" src="https://github.com/Vinishireis/Theme_Toggler/assets/95651095/1913b29e-4b79-4614-a7e7-f5cd2dc685ac">
